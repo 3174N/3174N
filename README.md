@@ -2,7 +2,7 @@
 
 An indie software/game developer.
 
-===
+---
 
 - He/Him
 - Fluent in:
