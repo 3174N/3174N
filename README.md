@@ -15,7 +15,8 @@ An indie software/game developer.
 - Doing:
   - Game development with Unity/Unreal Engine
   - Game development with c++
-  - Game modding
+  - Game modding:
+    - Minecraft
   - Web development
 - Currently learning:
   - Computer networking
