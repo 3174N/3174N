@@ -14,7 +14,7 @@ An indie software/game developer.
   - Javascript
 - Working with:
   - Unity
-  - Ureal Engine
+  - Ureal Engine 
 - Collaborations and ideas are welcome!
 
 <!--
