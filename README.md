@@ -12,9 +12,11 @@ An indie software/game developer.
   - Java
   - HTML/css
   - Javascript
-- Working with:
-  - Unity
-  - Ureal Engine 
+- Working on:
+  - Game development with Unity/Unreal Engine
+  - Game development with c++
+  - Game modding
+  - Web development
 - Collaborations and ideas are welcome!
 
 <!--
