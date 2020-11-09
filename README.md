@@ -18,6 +18,9 @@ An indie software/game developer.
   - Game modding:
     - Minecraft
   - Web development
+  - Discord bots with `discord.py`
 - Currently learning:
   - Computer networking
-- Collaborations and ideas are welcome!
+- I'm up to:
+  - Almost everything! just say the word!
+- Mail me at: Gmail - `eitan.levy.159`
