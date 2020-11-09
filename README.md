@@ -12,7 +12,7 @@ An indie software/game developer.
   - Java
   - HTML/css
   - Javascript
-- Doing {#doing}:
+- Doing: {#doing}
   - Game development with Unity/Unreal Engine
   - Game development with c++
   - Game modding:
@@ -22,5 +22,5 @@ An indie software/game developer.
 - Currently learning:
   - Computer networking
 - I'm up to:
-  - Almost everything [#doing](above)! just say the word!
+  - Almost everything [above](#doing)! just say the word!
 - Mail me at: Gmail - `eitan.levy.159`
