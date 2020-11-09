@@ -12,7 +12,7 @@ An indie software/game developer.
   - Java
   - HTML/css
   - Javascript
-- Doing: {#doing}
+#### Doing: {#doing}
   - Game development with Unity/Unreal Engine
   - Game development with c++
   - Game modding:
