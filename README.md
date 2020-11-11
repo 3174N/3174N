@@ -23,4 +23,4 @@ An indie software/game developer.
   - Computer networking
 - I'm up to:
   - Almost everything above! just say the word!
-- Mail me at: Gmail - `eitan.levy.159`
+- Mail me: `eitan.levy.159 at gmail dot com`
