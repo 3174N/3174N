@@ -21,6 +21,7 @@ An indie software/game developer.
   - Discord bots with `discord.py`
 - Currently learning:
   - Computer networking
+  - Node.js
 - I'm up to:
   - Almost everything above! just say the word!
 - Mail me: `eitan.levy.159 at gmail dot com`
