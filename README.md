@@ -23,7 +23,7 @@ An indie software/game developer.
 - Currently learning:
   - Computer networking
   - Node.js
-  - Electron
+    - Electron.js
   - React.js
 - I'm up to:
   - Almost everything above! just say the word!
