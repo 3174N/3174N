@@ -13,6 +13,7 @@ An indie software/game developer.
   - HTML/css
   - Javascript
 - Doing:
+  - [Stonecutter](https://github.com/3174N/stonecutter-electron) - An IDE for Minecraft datapacks
   - Game development with Unity/Unreal Engine
   - Game development with c++
   - Game modding:
@@ -22,6 +23,8 @@ An indie software/game developer.
 - Currently learning:
   - Computer networking
   - Node.js
+  - Electron
+  - React.js
 - I'm up to:
   - Almost everything above! just say the word!
 - Mail me: `eitan.levy.159 at gmail dot com`
