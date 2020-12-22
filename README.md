@@ -29,3 +29,6 @@ An indie software/game developer.
   - Almost everything above! just say the word!
 - Mail me: `eitan.levy.159 at gmail dot com`
 - Wanna chat? Discord: `3174N#5535`
+
+### Stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=3174N&show_icons=true&theme=dracula)
