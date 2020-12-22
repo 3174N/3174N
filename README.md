@@ -33,5 +33,6 @@ An indie software/game developer.
 ### Stats
 <p align='center'>
 <img src='https://github-readme-stats.vercel.app/api?username=3174N&show_icons=true&theme=dracula'> <br />
-<!--a href='https://github.com/anuraghazra/github-readme-stats'--><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=3174N&langs_count=8&theme=dracula'><!--/a-->
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=3174N&langs_count=8&theme=dracula'> <br />
+<img src='https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dracula'>
 </p>
