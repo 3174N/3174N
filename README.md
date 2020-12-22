@@ -31,5 +31,7 @@ An indie software/game developer.
 - Wanna chat? Discord: `3174N#5535`
 
 ### Stats
+<p align='center'>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=3174N&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3174N&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</p>
