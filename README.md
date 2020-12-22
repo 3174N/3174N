@@ -36,3 +36,5 @@ An indie software/game developer.
 <img src='https://github-readme-stats.vercel.app/api?username=3174N&show_icons=true&theme=dracula'> <br />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=3174N&langs_count=8&theme=dracula'> <br />
 </p>
+
+[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
