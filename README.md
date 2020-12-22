@@ -28,3 +28,4 @@ An indie software/game developer.
 - I'm up to:
   - Almost everything above! just say the word!
 - Mail me: `eitan.levy.159 at gmail dot com`
+- Wanna chat? Discord: `3174N#5535`
