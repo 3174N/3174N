@@ -27,7 +27,7 @@ An indie software/game developer.
   - React.js
 - I'm up to:
   - Almost everything above! just say the word!
-- Mail me: `eitan.levy.159 at gmail dot com`
+- Mail me: `3174N at protonmail dot com`
 - Wanna chat? Discord: `3174N#5535`
 
 ### Stats
