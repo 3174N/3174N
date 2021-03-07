@@ -34,7 +34,7 @@ An indie software/game developer.
 <p align='center'>
 <img src='https://github-readme-stats.vercel.app/api/wakatime?username=3174N&theme=dracula&v=2'>
 <img src='https://github-readme-stats.vercel.app/api?username=3174N&show_icons=true&theme=dracula'> <br />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=3174N&langs_count=8&theme=dracula'> <br />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=3174N&layout=compact&langs_count=8&theme=dracula'> <br />
 </p>
 
 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
