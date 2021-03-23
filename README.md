@@ -15,15 +15,13 @@ An indie software/game developer.
 - Doing:
   - [Stonecutter](https://github.com/3174N/stonecutter-electron) - An IDE for Minecraft datapacks
   - Game development with Unity/Unreal Engine
-  - Game development with c++
   - Game modding:
     - Minecraft
   - Web development
   - Discord bots with `discord.py`
 - Currently learning:
   - Computer networking
-  - Node.js
-    - Electron.js
+  - Game development with c++ and SDL2
   - React.js
 - I'm up to:
   - Almost everything above! just say the word!
