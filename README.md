@@ -26,7 +26,9 @@ An indie software/game developer.
 - I'm up to:
   - Almost everything above! just say the word!
 - Mail me: `3174N at protonmail dot com`
-- Wanna chat? Discord: `3174N#5535`
+- Wanna chat? 
+  - Matrix: `@3174n:matrix.org` 
+  - Discord: `3174N#5535`
 
 ### Stats
 <p align='center'>
