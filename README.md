@@ -34,6 +34,6 @@ An indie software/game developer.
 <img src='https://github-readme-stats.vercel.app/api?username=3174N&show_icons=true&theme=dracula'> <br />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=3174N&layout=compact&langs_count=8&theme=dracula'> <br />
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=3174N&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=3174N&theme=dracula)(https://github.com/ryo-ma/github-profile-trophy)
 
 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
