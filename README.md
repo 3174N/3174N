@@ -1,7 +1,5 @@
 ### Hi! I'm 3174N!
 
-An indie software/game developer.
-
 ---
 
 - He/Him
